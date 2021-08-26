@@ -1,0 +1,513 @@
+AS/1	AS/1/LABEL	AS/1/ID	AS/2	AS/2/LABEL	AS/2/ID	LAYER_CONNECTION	FILE
+Fibroblast	fibroblast	CL:0000057	Adventitial Fibroblast	fibroblast	CL:0000057	1->2	lung
+Smooth Muscle	smooth muscle cell	CL:0000192	Airway Smooth Muscle	respiratory system smooth muscle	UBERON:0004225	1->2	lung
+Alveolar Epithelial Type 1	type I pneumocyte	CL:0002062	Alveolar Epithelial Type 1	type I pneumocyte	CL:0002062	1->2	lung
+Alveolar Epithelial Type 2	type II pneumocyte	CL:0002063	Alveolar Epithelial Type 2	type II pneumocyte	CL:0002063	1->2	lung
+Fibroblast	fibroblast	CL:0000057	Alveolar Fibroblast	fibroblast	CL:0000057	1->2	lung
+Artery	artery	UBERON:0001637	Artery	artery	UBERON:0001637	1->2	lung
+B	B cell	CL:0000236	B	B cell	CL:0000236	1->2	lung
+Basal	basal cell	CL:0000646	Basal	basal cell	CL:0000646	1->2	lung
+Basophil/Mast	myeloid leukocyte	CL:0000766	Basophil/Mast 1	myeloid leukocyte	CL:0000766	1->2	lung
+Basophil/Mast	myeloid leukocyte	CL:0000766	Basophil/Mast 2	myeloid leukocyte	CL:0000766	1->2	lung
+Bronchial Vessel	bronchial epithelial cell	CL:0002328	Bronchial Vessel 1	bronchial epithelial cell	CL:0002328	1->2	lung
+Bronchial Vessel	bronchial epithelial cell	CL:0002328	Bronchial Vessel 2	bronchial epithelial cell	CL:0002328	1->2	lung
+Capillary	capillary	UBERON:0001982	Capillary	capillary	UBERON:0001982	1->2	lung
+Capillary Aerocyte	capillary endothelial cell	CL:0002144	Capillary Aerocyte	capillary endothelial cell	CL:0002144	1->2	lung
+Capillary Intermediate	capillary endothelial cell	CL:0002144	Capillary Intermediate 1	capillary endothelial cell	CL:0002144	1->2	lung
+Capillary Intermediate	capillary endothelial cell	CL:0002144	Capillary Intermediate 2	capillary endothelial cell	CL:0002144	1->2	lung
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4+ Memory/Effector T	CD4-positive, alpha-beta T cell	CL:0000624	1->2	lung
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4+ Naive T	naive thymus-derived CD4-positive, alpha-beta T cell	CL:0000895	1->2	lung
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8+ Memory/Effector T	CD8-positive, alpha-beta T cell	CL:0000625	1->2	lung
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8+ Naive T	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	1->2	lung
+Ciliated	ciliated cell	CL:0000064	Ciliated	ciliated cell	CL:0000064	1->2	lung
+CD14+ Monocyte	CD14-positive, CD16-negative classical monocyte	CL:0002057	Classical Monocyte	classical monocyte	CL:0000860	1->2	lung
+Club	club cell	CL:0000158	Club	club cell	CL:0000158	1->2	lung
+Basal	basal cell	CL:0000646	Differentiating Basal	basal cell	CL:0000646	1->2	lung
+Dendritic	dendritic cell	CL:0000451	EREG+ Dendritic	dendritic cell	CL:0000451	1->2	lung
+Fibromyocyte	smooth muscle cell	CL:0000192	Fibromyocyte	smooth muscle cell	CL:0000192	1->2	lung
+Goblet	goblet cell	CL:0000160	Goblet	goblet cell	CL:0000160	1->2	lung
+Dendritic	dendritic cell	CL:0000451	IGSF21+ Dendritic	dendritic cell	CL:0000451	1->2	lung
+CD16+ Monocyte	CD14-low, CD16-positive monocyte	CL:0002396	Intermediate Monocyte	intermediate monocyte	CL:0002393	1->2	lung
+Ionocyte	ionocyte	CL:0005006	Ionocyte	ionocyte	CL:0005006	1->2	lung
+Lipofibroblast	fibroblast	CL:0000057	Lipofibroblast	fibroblast	CL:0000057	1->2	lung
+Lymphatic	lymphatic vessel	UBERON:0001473	Lymphatic	lymphatic vessel	UBERON:0001473	1->2	lung
+Macrophage	macrophage	CL:0000235	Macrophage	macrophage	CL:0000235	1->2	lung
+Mesothelial	mesothelial cell	CL:0000077	Mesothelial	mesothelial cell	CL:0000077	1->2	lung
+Mucous	mucus secreting cell	CL:0000319	Mucous	mucus secreting cell	CL:0000319	1->2	lung
+Dendritic	dendritic cell	CL:0000451	Myeloid Dendritic Type 1	myeloid dendritic cell	CL:0000782	1->2	lung
+Dendritic	dendritic cell	CL:0000451	Myeloid Dendritic Type 2	myeloid dendritic cell	CL:0000782	1->2	lung
+Myofibroblast	myofibroblast cell	CL:0000186	Myofibroblast	myofibroblast cell	CL:0000186	1->2	lung
+Natural Killer	natural killer cell	CL:0000623	Natural Killer	natural killer cell	CL:0000623	1->2	lung
+Natural Killer T	mature NK T cell	CL:0000814	Natural Killer T	mature NK T cell	CL:0000814	1->2	lung
+Neuroendocrine	neuroendocrine cell	CL:0000165	Neuroendocrine	neuroendocrine cell	CL:0000165	1->2	lung
+CD16+ Monocyte	CD14-low, CD16-positive monocyte	CL:0002396	Nonclassical Monocyte	non-classical monocyte	CL:0000875	1->2	lung
+CD14+ Monocyte	CD14-positive, CD16-negative classical monocyte	CL:0002057	OLR1+ Classical Monocyte	classical monocyte	CL:0000860	1->2	lung
+Pericyte	pericyte cell	CL:0000669	Pericyte	pericyte cell	CL:0000669	1->2	lung
+Plasma	plasma cell	CL:0000786	Plasma	plasma cell	CL:0000786	1->2	lung
+Plasmacytoid Dendritic	plasmacytoid dendritic cell	CL:0000784	Plasmacytoid Dendritic	plasmacytoid dendritic cell	CL:0000784	1->2	lung
+Platelet/Megakaryocyte	myeloid cell	CL:0000763	Platelet/Megakaryocyte	myeloid cell	CL:0000763	1->2	lung
+Basal	basal cell	CL:0000646	Proliferating Basal	basal cell	CL:0000646	1->2	lung
+Proliferating Macrophage	macrophage	CL:0000235	Proliferating Macrophage	macrophage	CL:0000235	1->2	lung
+Proliferating NK/T	lymphocyte	CL:0000542	Proliferating NK/T	lymphocyte	CL:0000542	1->2	lung
+Basal	basal cell	CL:0000646	Proximal Basal	basal cell	CL:0000646	1->2	lung
+Ciliated	ciliated cell	CL:0000064	Proximal Ciliated	ciliated cell	CL:0000064	1->2	lung
+Serous	serous secreting cell	CL:0000313	Serous	serous secreting cell	CL:0000313	1->2	lung
+Alveolar Epithelial Type 2	type II pneumocyte	CL:0002063	Signaling Alveolar Epithelial Type 2	type II pneumocyte	CL:0002063	1->2	lung
+Dendritic	dendritic cell	CL:0000451	TREM2+ Dendritic	dendritic cell	CL:0000451	1->2	lung
+Smooth Muscle	smooth muscle cell	CL:0000192	Vascular Smooth Muscle	vascular associated smooth muscle cell	CL:0000359	1->2	lung
+Vein	vein	UBERON:0001638	Vein	vein	UBERON:0001638	1->2	lung
+acinar	pancreatic acinar cell	CL:0002064	acinar	pancreatic acinar cell	CL:0002064	1->2	pancreas
+activated_stellate	pancreatic stellate cell	CL:0002410	activated_stellate	pancreatic stellate cell	CL:0002410	1->2	pancreas
+alpha	pancreatic A cell	CL:0000171	alpha	pancreatic A cell	CL:0000171	1->2	pancreas
+beta	type B pancreatic cell	CL:0000169	beta	type B pancreatic cell	CL:0000169	1->2	pancreas
+cycling	pancreatic endocrine cell	CL:0008024	cycling	pancreatic endocrine cell	CL:0008024	1->2	pancreas
+delta	pancreatic D cell	CL:0000173	delta	pancreatic D cell	CL:0000173	1->2	pancreas
+ductal	pancreatic ductal cell	CL:0002079	ductal	pancreatic ductal cell	CL:0002079	1->2	pancreas
+endothelial	endothelial cell	CL:0000115	endothelial	endothelial cell	CL:0000115	1->2	pancreas
+epsilon	pancreatic epsilon cell	CL:0005019	epsilon	pancreatic epsilon cell	CL:0005019	1->2	pancreas
+gamma	pancreatic PP cell	CL:0002275	gamma	pancreatic PP cell	CL:0002275	1->2	pancreas
+immune	leukocyte	CL:0000738	immune	leukocyte	CL:0000738	1->2	pancreas
+quiescent_stellate	pancreatic stellate cell	CL:0002410	quiescent_stellate	pancreatic stellate cell	CL:0002410	1->2	pancreas
+schwann	Schwann cell	CL:0002573	schwann	Schwann cell	CL:0002573	1->2	pancreas
+Intercalated Type B	renal beta-intercalated cell	CL:0002201	Intercalated Type B	renal beta-intercalated cell	CL:0002201	2->3	kidney
+Podocyte	glomerular visceral epithelial cell	CL:0000653	Podocyte	glomerular visceral epithelial cell	CL:0000653	1->2	kidney
+Immune	leukocyte	CL:0000738	Mast	mast cell	CL:0000097	1->2	kidney
+Intercalated	renal intercalated cell	CL:0005010	Cortical Collecting Duct Intercalated Type A	renal alpha-intercalated cell	CL:0005011	1->2	kidney
+Descending Thin Limb Type 2	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 2	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	2->3	kidney
+Endothelial	endothelial cell	CL:0000115	Afferent / Efferent Arteriole Endothelial	kidney afferent arteriole endothelial cell	CL:1001096	1->2	kidney
+Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Mesangial	mesangial cell	CL:0000650	1->2	kidney
+Fibroblast	fibroblast	CL:0000057	Fibroblast	fibroblast	CL:0000057	1->2	kidney
+Fibroblast	fibroblast	CL:0000057	Fibroblast	fibroblast	CL:0000057	2->3	kidney
+Classical Dendritic	dendritic cell	CL:0000451	Classical Dendritic	dendritic cell	CL:0000451	2->3	kidney
+Immune	leukocyte	CL:0000738	Cycling Mononuclear Phagocyte	mononuclear phagocyte	CL:0000113	1->2	kidney
+B	mature B cell	CL:0000785	B	mature B cell	CL:0000785	2->3	kidney
+Plasmacytoid Dendritic	plasmacytoid dendritic cell	CL:0000784	Plasmacytoid Dendritic	plasmacytoid dendritic cell	CL:0000784	2->3	kidney
+Renin-positive Juxtaglomerular Granular	kidney granular cell	CL:0000648	Renin-positive Juxtaglomerular Granular	kidney granular cell	CL:0000648	2->3	kidney
+Principal	renal principal cell	CL:0005009	Outer Medullary Collecting Duct Principal	Outer Medullary Collecting Duct Principal	[Outer Medullary Collecting Duct Principal]()	1->2	kidney
+Inner Medullary Collecting Duct	kidney inner medulla collecting duct epithelial cell	CL:1000547	Inner Medullary Collecting Duct	kidney inner medulla collecting duct epithelial cell	CL:1000547	2->3	kidney
+Connecting Tubule	kidney connecting tubule epithelial cell	CL:1000768	Connecting Tubule	kidney connecting tubule epithelial cell	CL:1000768	2->3	kidney
+Cortical Collecting Duct Intercalated Type A	renal alpha-intercalated cell	CL:0005011	Connecting Tubule Intercalated Type A	renal alpha-intercalated cell	CL:0005011	2->3	kidney
+Descending Thin Limb Type 1	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 1	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	2->3	kidney
+Principal	renal principal cell	CL:0005009	Inner Medullary Collecting Duct	kidney inner medulla collecting duct epithelial cell	CL:1000547	1->2	kidney
+Schwann	Schwann cell	CL:0002573	Schwann / Neural	Schwann cell	CL:0002573	1->2	kidney
+""",""CL:1001107"""	1765					1->2	kidney
+Descending Thin Limb Type 3	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 3	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	2->3	kidney
+Immune	leukocyte	CL:0000738	Monocyte-derived	monocyte	CL:0000576	1->2	kidney
+Papillary Tip Epithelial	papillary tips cell	CL:1000597	Papillary Tip Epithelial	Papillary Tip Epithelial	[Papillary Tip Epithelial]()	1->2	kidney
+Mast	mast cell	CL:0000097	Mast	mast cell	CL:0000097	2->3	kidney
+Cortical Collecting Duct Intercalated Type A	renal alpha-intercalated cell	CL:0005011	Cortical Collecting Duct Intercalated Type A	renal alpha-intercalated cell	CL:0005011	2->3	kidney
+Cortical Thick Ascending Limb	kidney loop of Henle cortical thick ascending limb epithelial cell	[kidney loop of Henle cortical thick ascending limb epithelial cell](http://www.ontobee.org/ontology/CL?iri=http://purl.obolibrary.org/obo/1001109)	Cortical Thick Ascending Limb	kidney loop of Henle cortical thick ascending limb epithelial cell	[kidney loop of Henle cortical thick ascending limb epithelial cell](http://www.ontobee.org/ontology/CL?iri=http://purl.obolibrary.org/obo/1001109)	2->3	kidney
+Thick Ascending Limb	kidney loop of Henle thick ascending limb epithelial cell	CL:1001106	Cortical Thick Ascending Limb	kidney loop of Henle cortical thick ascending limb epithelial cell	[kidney loop of Henle cortical thick ascending limb epithelial cell](http://www.ontobee.org/ontology/CL?iri=http://purl.obolibrary.org/obo/1001109)	1->2	kidney
+Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Cortical Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	1->2	kidney
+Cortical Collecting Duct Principal	kidney collecting duct principal cell	CL:1001431	Cortical Collecting Duct Principal	kidney collecting duct principal cell	CL:1001431	2->3	kidney
+Outer Medullary Collecting Duct Principal	Outer Medullary Collecting Duct Principal	[Outer Medullary Collecting Duct Principal]()	Outer Medullary Collecting Duct Principal	kidney outer medulla collecting duct principal cell	CL:1000716	2->3	kidney
+Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Renin-positive Juxtaglomerular Granular	kidney granular cell	CL:0000648	1->2	kidney
+Neutrophil	neutrophil	CL:0000775	Neutrophil	neutrophil	CL:0000775	2->3	kidney
+Papillary Tip Epithelial	Papillary Tip Epithelial	[Papillary Tip Epithelial]()	Papillary Tip Epithelial	papillary tips cell	CL:1000597	2->3	kidney
+Distal Convoluted Tubule	kidney distal convoluted tubule epithelial cell	CL:1000849	Distal Convoluted Tubule	kidney distal convoluted tubule epithelial cell	CL:1000849	1->2	kidney
+Intercalated	renal intercalated cell	CL:0005010	Intercalated Type B	renal beta-intercalated cell	CL:0002201	1->2	kidney
+Lymphatic Endothelial	endothelial cell of lymphatic vessel	CL:0002138	Lymphatic Endothelial	endothelial cell of lymphatic vessel	CL:0002138	2->3	kidney
+Cycling Mononuclear Phagocyte	mononuclear phagocyte	CL:0000113	Cycling Mononuclear Phagocyte	mononuclear phagocyte	CL:0000113	2->3	kidney
+Glomerular Capillary Endothelial	glomerular capillary endothelial cell	CL:1001005	Glomerular Capillary Endothelial	glomerular capillary endothelial cell	CL:1001005	2->3	kidney
+Parietal Epithelial	Parietal Epithelial	[Parietal Epithelial]()	Parietal Epithelial	parietal epithelial cell	CL:1000452	2->3	kidney
+Immune	leukocyte	CL:0000738	Neutrophil	neutrophil	CL:0000775	1->2	kidney
+Cortical Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Cortical Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	2->3	kidney
+Podocyte	glomerular visceral epithelial cell	CL:0000653	Podocyte	glomerular visceral epithelial cell	CL:0000653	2->3	kidney
+Connecting Tubule	kidney connecting tubule epithelial cell	CL:1000768	Connecting Tubule	kidney connecting tubule epithelial cell	CL:1000768	1->2	kidney
+Outer Medullary Collecting Duct Intercalated Type A	Outer Medullary Collecting Duct Intercalated Type A	[Outer Medullary Collecting Duct Intercalated Type A]()	Outer Medullary Collecting Duct Intercalated Type A	kidney outer medulla collecting duct intercalated cell	CL:1000717	2->3	kidney
+						2->3	kidney
+Connecting Tubule	kidney connecting tubule epithelial cell	CL:1000768	Connecting Tubule Principal	kidney collecting duct principal cell	CL:1001431	2->3	kidney
+Proximal Tubule	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 1	epithelial cell of proximal tubule	CL:0002306	1->2	kidney
+Ascending Vasa Recta Endothelial	vasa recta ascending limb cell	CL:1001131	Ascending Vasa Recta Endothelial	vasa recta ascending limb cell		2->3	kidney
+Distal Convoluted Tubule	kidney distal convoluted tubule epithelial cell	CL:1000849	Distal Convoluted Tubule Type 2	kidney distal convoluted tubule epithelial cell	CL:1000849	2->3	kidney
+Immune	leukocyte	CL:0000738	B	mature B cell	CL:0000785	1->2	kidney
+""",""CL:1001131"""	2527					1->2	kidney
+Endothelial	endothelial cell	CL:0000115	Lymphatic Endothelial	endothelial cell of lymphatic vessel	CL:0002138	1->2	kidney
+Proximal Tubule	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 3	epithelial cell of proximal tubule	CL:0002306	1->2	kidney
+Ascending Thin Limb	kidney loop of Henle thin ascending limb epithelial cell	CL:1001107	Ascending Thin Limb	kidney loop of Henle thin ascending limb epithelial cell	CL:1001107	1->2	kidney
+Afferent / Efferent Arteriole Endothelial	kidney afferent arteriole endothelial cell	CL:1001096	Afferent / Efferent Arteriole Endothelial	kidney afferent arteriole endothelial cell	CL:1001096	2->3	kidney
+Medullary Fibroblast	fibroblast	CL:0000057	Medullary Fibroblast	fibroblast	CL:0000057	2->3	kidney
+Proximal Tubule Epithelial Segment 3	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 3	epithelial cell of proximal tubule	CL:0002306	2->3	kidney
+Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	2->3	kidney
+Descending Thin Limb	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 1	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	1->2	kidney
+Thick Ascending Limb	kidney loop of Henle thick ascending limb epithelial cell	CL:1001106	Macula Densa	macula densa epithelial cell	CL:1000850	1->2	kidney
+Immune	leukocyte	CL:0000738	Plasma	plasma cell	CL:0000786	1->2	kidney
+Intercalated	renal intercalated cell	CL:0005010	Outer Medullary Collecting Duct Intercalated Type A	Outer Medullary Collecting Duct Intercalated Type A	[Outer Medullary Collecting Duct Intercalated Type A]()	1->2	kidney
+Immune	leukocyte	CL:0000738	T	T cell	CL:000084	1->2	kidney
+Ascending Thin Limb	kidney loop of Henle thin ascending limb epithelial cell	CL:1001107	Ascending Thin Limb	kidney loop of Henle thin ascending limb epithelial cell		2->3	kidney
+Macula Densa	macula densa epithelial cell	CL:1000850	Macula Densa	macula densa epithelial cell	CL:1000850	2->3	kidney
+Endothelial	endothelial cell	CL:0000115	Glomerular Capillary Endothelial	glomerular capillary endothelial cell	CL:1001005	1->2	kidney
+Fibroblast	fibroblast	CL:0000057	Medullary Fibroblast	fibroblast	CL:0000057	1->2	kidney
+Mesangial	mesangial cell	CL:0000650	Mesangial	mesangial cell	CL:0000650	2->3	kidney
+Proximal Tubule Epithelial Segment 2	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 2	epithelial cell of proximal tubule	CL:0002306	2->3	kidney
+Immune	leukocyte	CL:0000738	Plasmacytoid Dendritic	plasmacytoid dendritic cell	CL:0000784	1->2	kidney
+Proximal Tubule Epithelial Segment 1	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 1	epithelial cell of proximal tubule	CL:0002306	2->3	kidney
+AS/2	AS/2/LABEL	AS/2/ID	AS/3	AS/3/LABEL	AS/3/ID	2->3	kidney
+Parietal Epithelial	parietal epithelial cell	CL:1000452	Parietal Epithelial	Parietal Epithelial	[Parietal Epithelial]()	1->2	kidney
+Descending Thin Limb	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 2	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	1->2	kidney
+T	T cell	CL:000084	T	T cell	CL:000084	2->3	kidney
+Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	Vascular Smooth Muscle / Pericyte	vascular associated smooth muscle cell	CL:0000359	1->2	kidney
+Medullary Thick Ascending Limb	kidney loop of Henle medullary thick ascending limb epithelial cell	CL:1001108	Medullary Thick Ascending Limb	kidney loop of Henle medullary thick ascending limb epithelial cell	CL:1001108	2->3	kidney
+Schwann / Neural	Schwann cell	CL:0002573	Schwann / Neural	Schwann cell	CL:0002573	2->3	kidney
+Monocyte-derived	monocyte	CL:0000576	Monocyte-derived	monocyte	CL:0000576	2->3	kidney
+Distal Convoluted Tubule	kidney distal convoluted tubule epithelial cell	CL:1000849	Distal Convoluted Tubule Type 1	kidney distal convoluted tubule epithelial cell	CL:1000849	2->3	kidney
+Thick Ascending Limb	kidney loop of Henle thick ascending limb epithelial cell	CL:1001106	Medullary Thick Ascending Limb	kidney loop of Henle medullary thick ascending limb epithelial cell	CL:1001108	1->2	kidney
+Proximal Tubule	epithelial cell of proximal tubule	CL:0002306	Proximal Tubule Epithelial Segment 2	epithelial cell of proximal tubule	CL:0002306	1->2	kidney
+Endothelial	endothelial cell	CL:0000115	Ascending Vasa Recta Endothelial	vasa recta ascending limb cell	CL:1001131	1->2	kidney
+Descending Thin Limb	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	Descending Thin Limb Type 3	kidney loop of Henle thin descending limb epithelial cell	CL:1001111	1->2	kidney
+Plasma	plasma cell	CL:0000786	Plasma	plasma cell	CL:0000786	2->3	kidney
+Immune	leukocyte	CL:0000738	Classical Dendritic	dendritic cell	CL:0000451	1->2	kidney
+Principal	renal principal cell	CL:0005009	Cortical Collecting Duct Principal	kidney collecting duct principal cell	CL:1001431	1->2	kidney
+CD8 TCM	CD8-positive, alpha-beta memory T cell	CL:0000909	CD8 TCM_2	CD8-positive, alpha-beta memory T cell	CL:0000909	2->3	pbmc
+B	mature B cell	CL:0000785	B naive	naive B cell	CL:0000788	1->2	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	Treg	regulatory T cell	CL:0000815	1->2	pbmc
+CD4 TEM	effector CD4-positive, alpha-beta T cell	CL:0001044	CD4 TEM_3	effector CD4-positive, alpha-beta T cell	CL:0001044	2->3	pbmc
+gdT	gamma-delta T cell	CL:0000798	gdT_3	gamma-delta T cell	CL:0000798	2->3	pbmc
+DC	dendritic cell	CL:0000451	cDC2	CD1c-positive myeloid dendritic cell	CL:0002399	1->2	pbmc
+CD16 Mono	CD14-low, CD16-positive monocyte	CL:0002396	CD16 Mono	CD14-low, CD16-positive monocyte	CL:0002396	2->3	pbmc
+cDC2	CD1c-positive myeloid dendritic cell	CL:0002399	cDC2_2	CD1c-positive myeloid dendritic cell	CL:0002399	2->3	pbmc
+cDC1	CD141-positive myeloid dendritic cell	CL:0002394	cDC1	CD141-positive myeloid dendritic cell	CL:0002394	2->3	pbmc
+CD4 TEM	effector CD4-positive, alpha-beta T cell	CL:0001044	CD4 TEM_4	effector CD4-positive, alpha-beta T cell	CL:0001044	2->3	pbmc
+CD8 Naive	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	CD8 Naive_2	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	2->3	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4 TCM	CD4-positive, alpha-beta memory T cell	CL:0000897	1->2	pbmc
+B naive	naive B cell	CL:0000788	B naive kappa	naive B cell	CL:0000788	2->3	pbmc
+gdT	gamma-delta T cell	CL:0000798	gdT_4	gamma-delta T cell	CL:0000798	2->3	pbmc
+CD4 TCM	CD4-positive, alpha-beta memory T cell	CL:0000897	CD4 TCM_1	CD4-positive, alpha-beta memory T cell	CL:0000897	2->3	pbmc
+B memory	memory B cell	CL:0000787	B memory kappa	memory B cell	CL:0000787	2->3	pbmc
+ASDC	plasmacytoid dendritic cell	CL:0000784	ASDC_mDC	myeloid dendritic cell	CL:0000782	2->3	pbmc
+B naive	naive B cell	CL:0000788	B naive lambda	naive B cell	CL:0000788	2->3	pbmc
+NK	natural killer cell	CL:0000623	NK	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	1->2	pbmc
+Mono	monocyte	CL:0000576	CD16 Mono	CD14-low, CD16-positive monocyte	CL:0002396	1->2	pbmc
+Treg	regulatory T cell	CL:0000815	Treg Naive	regulatory T cell	CL:0000815	2->3	pbmc
+B intermediate	mature B cell	CL:0000785	B intermediate lambda	mature B cell	CL:0000785	2->3	pbmc
+dnT	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	CL:0000935	dnT_1	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	CL:0000935	2->3	pbmc
+NK	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	NK_3	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	2->3	pbmc
+Mono	monocyte	CL:0000576	CD14 Mono	CD14-positive, CD16-negative classical monocyte	CL:0002057	1->2	pbmc
+CD8 Proliferating	activated CD8-positive, alpha-beta T cell	CL:0000906	CD8 Proliferating	activated CD8-positive, alpha-beta T cell	CL:0000906	2->3	pbmc
+dnT	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	CL:0000935	dnT_2	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	CL:0000935	2->3	pbmc
+CD4 CTL	CD4-positive, alpha-beta cytotoxic T cell	CL:0000934	CD4 CTL	CD4-positive, alpha-beta cytotoxic T cell	CL:0000934	2->3	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_2	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+CD8 TCM	CD8-positive, alpha-beta memory T cell	CL:0000909	CD8 TCM_3	CD8-positive, alpha-beta memory T cell	CL:0000909	2->3	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_5	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+B memory	memory B cell	CL:0000787	B memory lambda	memory B cell	CL:0000787	2->3	pbmc
+CD4 Naive	naive thymus-derived CD4-positive, alpha-beta T cell	CL:0000895	CD4 Naive	naive thymus-derived CD4-positive, alpha-beta T cell	CL:0000895	2->3	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4 Naive	naive thymus-derived CD4-positive, alpha-beta T cell	CL:0000895	1->2	pbmc
+Plasmablast	plasmablast	CL:0000980	Plasmablast	plasmablast	CL:0000980	2->3	pbmc
+B	mature B cell	CL:0000785	B intermediate	mature B cell	CL:0000785	1->2	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4 TEM	effector CD4-positive, alpha-beta T cell	CL:0001044	1->2	pbmc
+other T	mature T cell	CL:0002419	dnT	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	CL:0000935	1->2	pbmc
+NK	natural killer cell	CL:0000623	NK_CD56bright	CD16-negative, CD56-bright natural killer cell, human	CL:0000938	1->2	pbmc
+cDC2	CD1c-positive myeloid dendritic cell	CL:0002399	cDC2_1	CD1c-positive myeloid dendritic cell	CL:0002399	2->3	pbmc
+B	mature B cell	CL:0000785	Plasmablast	plasmablast	CL:0000980	1->2	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_4	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8 TCM	CD8-positive, alpha-beta memory T cell	CL:0000909	1->2	pbmc
+Plasmablast	plasmablast	CL:0000980	Plasma	plasma cell	CL:0000786	2->3	pbmc
+NK_CD56bright	CD16-negative, CD56-bright natural killer cell, human	CL:0000938	NK_CD56bright	CD16-negative, CD56-bright natural killer cell, human	CL:0000938	2->3	pbmc
+DC	dendritic cell	CL:0000451	cDC1	CD141-positive myeloid dendritic cell	CL:0002394	1->2	pbmc
+MAIT	mucosal invariant T cell	CL:0000940	MAIT	mucosal invariant T cell	CL:0000940	2->3	pbmc
+CD14 Mono	CD14-positive, CD16-negative classical monocyte	CL:0002057	CD14 Mono	CD14-positive, CD16-negative classical monocyte	CL:0002057	2->3	pbmc
+B intermediate	mature B cell	CL:0000785	B intermediate kappa	mature B cell	CL:0000785	2->3	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4 Proliferating	activated CD4-positive, alpha-beta T cell	CL:0000896	1->2	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_3	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+CD8 Naive	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	CD8 Naive	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	2->3	pbmc
+CD4 TEM	effector CD4-positive, alpha-beta T cell	CL:0001044	CD4 TEM_1	effector CD4-positive, alpha-beta T cell	CL:0001044	2->3	pbmc
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8 Naive	naive thymus-derived CD8-positive, alpha-beta T cell	CL:0000900	1->2	pbmc
+CD4 TCM	CD4-positive, alpha-beta memory T cell	CL:0000897	CD4 TCM_3	CD4-positive, alpha-beta memory T cell	CL:0000897	2->3	pbmc
+NK	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	NK_4	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	2->3	pbmc
+CD4 TCM	CD4-positive, alpha-beta memory T cell	CL:0000897	CD4 TCM_2	CD4-positive, alpha-beta memory T cell	CL:0000897	2->3	pbmc
+NK	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	NK_1	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	2->3	pbmc
+B	mature B cell	CL:0000785	B memory	memory B cell	CL:0000787	1->2	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_1	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+NK	natural killer cell	CL:0000623	NK Proliferating	natural killer cell	CL:0000623	1->2	pbmc
+CD4 TEM	effector CD4-positive, alpha-beta T cell	CL:0001044	CD4 TEM_2	effector CD4-positive, alpha-beta T cell	CL:0001044	2->3	pbmc
+Treg	regulatory T cell	CL:0000815	Treg Memory	regulatory T cell	CL:0000815	2->3	pbmc
+CD4 Proliferating	activated CD4-positive, alpha-beta T cell	CL:0000896	CD4 Proliferating	activated CD4-positive, alpha-beta T cell	CL:0000896	2->3	pbmc
+CD8 TCM	CD8-positive, alpha-beta memory T cell	CL:0000909	CD8 TCM_1	CD8-positive, alpha-beta memory T cell	CL:0000909	2->3	pbmc
+DC	dendritic cell	CL:0000451	pDC	plasmacytoid dendritic cell	CL:0000784	1->2	pbmc
+CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	CD8 TEM_6	effector CD8-positive, alpha-beta T cell	CL:0001050	2->3	pbmc
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8 Proliferating	activated CD8-positive, alpha-beta T cell	CL:0000906	1->2	pbmc
+other T	mature T cell	CL:0002419	gdT	gamma-delta T cell	CL:0000798	1->2	pbmc
+CD4 T	CD4-positive, alpha-beta T cell	CL:0000624	CD4 CTL	CD4-positive, alpha-beta cytotoxic T cell	CL:0000934	1->2	pbmc
+NK	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	NK_2	CD16-positive, CD56-dim natural killer cell, human	CL:0000939	2->3	pbmc
+NK Proliferating	natural killer cell	CL:0000623	NK Proliferating	natural killer cell	CL:0000623	2->3	pbmc
+gdT	gamma-delta T cell	CL:0000798	gdT_2	gamma-delta T cell	CL:0000798	2->3	pbmc
+pDC	plasmacytoid dendritic cell	CL:0000784	pDC	plasmacytoid dendritic cell	CL:0000784	2->3	pbmc
+DC	dendritic cell	CL:0000451	ASDC	plasmacytoid dendritic cell	CL:0000784	1->2	pbmc
+CD8 T	CD8-positive, alpha-beta T cell	CL:0000625	CD8 TEM	effector CD8-positive, alpha-beta T cell	CL:0001050	1->2	pbmc
+gdT	gamma-delta T cell	CL:0000798	gdT_1	gamma-delta T cell	CL:0000798	2->3	pbmc
+ASDC	plasmacytoid dendritic cell	CL:0000784	ASDC_pDC	plasmacytoid dendritic cell	CL:0000784	2->3	pbmc
+other T	mature T cell	CL:0002419	MAIT	mucosal invariant T cell	CL:0000940	1->2	pbmc
+Lamp5	GABAergic neuron	CL:0000617	Inh L1 LAMP5 BMP2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L3-5 VIP HS3ST3A1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L3-5 FEZF2 LINC01107	glutamatergic neuron	CL:0000679	L5 ET_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L2 PAX6 FREM2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5-6 FEZF2 FILIP1L	glutamatergic neuron	CL:0000679	L6 CT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1 LAMP5 RAB11FIP1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-5 VIP SMOC1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L6 THEMIS LINC00343	glutamatergic neuron	CL:0000679	L6 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L6 CT	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5-6 PVALB ZFPM2-AS1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5 FEZF2 NREP-AS1	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L2-5 VIP BSPRY	GABAergic neuron	CL:0000617	Vip_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1 LAMP5 RAB11FIP1	GABAergic neuron	CL:0000617	Lamp5_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	VLMC	brain pericyte	CL:2000043	1->2	motor_cortex
+Exc L3 LAMP5 CARM1P1	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Exc L5 FEZF2 RNF144A-AS1	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1-2 SST PRRT4	GABAergic neuron	CL:0000617	Sst_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L3-5 SST OR5AH1P	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Oligo	oligodendrocyte	CL:0000128	Oligo L3-6 OPALIN ENPP6	oligodendrocyte	CL:0000128	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5-6 PVALB FAM150B	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L3-5 SST GGTLC3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST ISX	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L5 ET	glutamatergic neuron	CL:0000679	Exc L3-5 FEZF2 ASGR2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L1 PAX6 CHRFAM7A	GABAergic neuron	CL:0000617	Sncg_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L2-3 SST NMU	GABAergic neuron	CL:0000617	Sst_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L2 PVALB FRZB	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L1-2 SST CCNJL	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5-6 FEZF2 SH2D1B	glutamatergic neuron	CL:0000679	L6 CT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	Astro	astrocyte	CL:0000127	1->2	motor_cortex
+Oligo L5-6 OPALIN LDLRAP1	oligodendrocyte	CL:0000128	Oligo_2	oligodendrocyte	CL:0000128	3->4	motor_cortex
+Micro-PVM	perivascular macrophage	CL:0000881	Micro L1-6 TYROBP CD74	microglial cell	CL:0000129	2->3	motor_cortex
+Exc L5 FEZF2 CSN1S1	glutamatergic neuron	CL:0000679	L5 ET_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L5-6 LAMP5 CRABP1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-2 VIP EXPH5	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-2 VIP HTR3A	GABAergic neuron	CL:0000617	Sncg_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Astro	astrocyte	CL:0000127	Astro L1 FGFR3 SERPINI2	astrocyte	CL:0000127	2->3	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 SH2D1B	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L3-5 SST CDH3	GABAergic neuron	CL:0000617	Sst_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-6 LAMP5 AARD	GABAergic neuron	CL:0000617	Lamp5_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L3-6 PAX6 LINC01497	GABAergic neuron	CL:0000617	Lamp5_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2 LAMP5 KCNG3	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1-6 LAMP5 CA1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L6 FEZF2 KLK7	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-5 VIP PHLDB3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L3 RORB OTOGL	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Astro L1 FGFR3 SERPINI2	astrocyte	CL:0000127	Astro_1	astrocyte	CL:0000127	3->4	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Lamp5	GABAergic neuron	CL:0000617	1->2	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-3 VIP CBLN1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L3-5 SST CDH3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L5 RORB MED8	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L3 PVALB SAMD13	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2-3 LINC00507 DSG3	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Endo L2-5 NOSTRIN SRGN	endothelial cell	CL:0000115	Endo	endothelial cell	CL:0000115	3->4	motor_cortex
+L5 ET	glutamatergic neuron	CL:0000679	Exc L3-5 FEZF2 LINC01107	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3-5 RORB LAMA4	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1 SST P4HA3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1 SST DEFB108B	GABAergic neuron	CL:0000617	Sncg_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-3 VIP CHRNA2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5-6 FEZF2 LPO	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1-5 VIP CD27-AS1	GABAergic neuron	CL:0000617	Vip_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L6 FEZF2 PROKR2	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1 SST P4HA3	GABAergic neuron	CL:0000617	Sncg_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+AS/3	AS/3/LABEL	AS/3/ID	AS/4	AS/4/LABEL	AS/4/ID	3->4	motor_cortex
+Inh L1-2 VIP SCML4	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-2 VIP PTGER3	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L1-3 SST FAM20A	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Oligo L2-6 OPALIN FTH1P3	oligodendrocyte	CL:0000128	Oligo_2	oligodendrocyte	CL:0000128	3->4	motor_cortex
+Exc L5-6 THEMIS SMYD1	glutamatergic neuron	CL:0000679	L6 IT_3	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	Endo	endothelial cell	CL:0000115	1->2	motor_cortex
+Inh L1 LAMP5 NMBR	GABAergic neuron	CL:0000617	Lamp5_5	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2 LINC00507 GLRA3	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L5/6 NP	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 IFNG-AS1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L6 FEZF2 PROKR2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L2-5 PVALB RPH3AL	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-5 VIP SMOC1	GABAergic neuron	CL:0000617	Vip_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST PAWR	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L2-5 PVALB HHIPL1	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L3-5 RORB LINC01202	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Exc L3-5 RORB RPRM	glutamatergic neuron	CL:0000679	L5 IT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Exc L5 THEMIS RGPD6	glutamatergic neuron	CL:0000679	L6 CT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L6 IT	glutamatergic neuron	CL:0000679	Exc L6 THEMIS LINC00343	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5-6 PVALB GAPDHP60	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L3-5 FEZF2 ASGR2	glutamatergic neuron	CL:0000679	L5 ET_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1-6 LAMP5 CA1	GABAergic neuron	CL:0000617	Lamp5_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 PVALB SST CRHR2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1-2 VIP HTR3A	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L2-5 VIP SOX11	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5 THEMIS LINC01116	glutamatergic neuron	CL:0000679	L6 CT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1-2 VIP WNT4	GABAergic neuron	CL:0000617	Sncg_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2-3 RORB RTKN2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L2-3 SST NMU	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L2 VIP SLC6A16	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L5-6 FEZF2 OR1L8	glutamatergic neuron	CL:0000679	L6 CT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1 PAX6 MIR101-1	GABAergic neuron	CL:0000617	Lamp5_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5/6 NP	glutamatergic neuron	CL:0000679	Exc L5 FEZF2 PKD2L1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L1 LAMP5 PVRL2	GABAergic neuron	CL:0000617	Lamp5_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L2 PVALB FRZB	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-5 VIP CD27-AS1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 FILIP1L	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L6 FEZF2 PDYN	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L3-5 PVALB ISG20	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1 PVALB SST ASIC4	GABAergic neuron	CL:0000617	Sncg_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST C4orf26	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L3-5 VIP IGDCC3	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 CFTR	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 PVALB GAPDHP60	GABAergic neuron	CL:0000617	Pvalb_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L5-6 SST PIK3CD	GABAergic neuron	CL:0000617	Sst_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+AS/2	AS/2/LABEL	AS/2/ID	AS/3	AS/3/LABEL	AS/3/ID	2->3	motor_cortex
+Exc L5 THEMIS VILL	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L1-5 VIP PHLDB3	GABAergic neuron	CL:0000617	Vip_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L5 THEMIS FGF10	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L5 ET	glutamatergic neuron	CL:0000679	Exc L5 FEZF2 CSN1S1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-3 VIP FNDC1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-6 PVALB COL15A1	GABAergic neuron	CL:0000617	Chandelier	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L3-5 VIP TAC3	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-5 VIP LINC01013	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L6 FEZF2 FFAR4	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Pvalb	GABAergic neuron	CL:0000617	1->2	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L6 FEZF2 KLK7	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Exc L2 LINC00507 ATP7B	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Exc L3-5 RORB LNX2	glutamatergic neuron	CL:0000679	L5 IT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Exc L5 FEZF2 PKD2L1	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L5-6 SST ISX	GABAergic neuron	CL:0000617	Sst_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5/6 NP	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 LPO	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 PVALB KCNIP2	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1 PVALB SST ASIC4	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5 THEMIS SLC22A18	glutamatergic neuron	CL:0000679	L5 IT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1-6 VIP SLC7A6OS	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-3 VIP FNDC1	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L5 THEMIS SLC22A18	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5 THEMIS RGPD6	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L1-2 SST CLIC6	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L3-6 VIP UG0898H09	GABAergic neuron	CL:0000617	Vip_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-3 VIP HSPB6	GABAergic neuron	CL:0000617	Vip_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L3-5 RORB TNNT2	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3-5 RORB RPRM	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L1 VIP KLHDC8B	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Astro	astrocyte	CL:0000127	Astro L1-6 FGFR3 PLCG1	astrocyte	CL:0000127	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L2-5 PVALB RPH3AL	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L3 LAMP5 CARM1P1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Oligo	oligodendrocyte	CL:0000128	Oligo L5-6 OPALIN LDLRAP1	oligodendrocyte	CL:0000128	2->3	motor_cortex
+Inh L5-6 LAMP5 CRABP1	GABAergic neuron	CL:0000617	Lamp5_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L3-5 SST OR5AH1P	GABAergic neuron	CL:0000617	Sst_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	Oligo	oligodendrocyte	CL:0000128	1->2	motor_cortex
+Exc L6 FEZF2 POGK	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST BEAN1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-3 VIP CHRNA2	GABAergic neuron	CL:0000617	Vip_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L6 SST TH	GABAergic neuron	CL:0000617	Sst_7	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2 LINC00507 ATP7B	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L5/6 NP	glutamatergic neuron	CL:0000679	Exc L5 FEZF2 RNF144A-AS1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 SST FBN2	GABAergic neuron	CL:0000617	Sst_6	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5 THEMIS LINC01116	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L1-2 PVALB CDK20	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L2-3 RORB PTPN3	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3-5 RORB LNX2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 C9orf135-AS1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+L6 IT Car3	glutamatergic neuron	CL:0000679	Exc L5-6 THEMIS SMYD1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1-2 VIP WNT4	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L2-3 RORB RTKN2	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L5-6 PVALB MEPE	GABAergic neuron	CL:0000617	Pvalb_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1-6 LAMP5 AARD	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1 LAMP5 NMBR	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L2 LINC00507 GLRA3	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L3-5 PVALB ISG20	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L3 THEMIS ENPEP	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2-3 RORB CCDC68	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L3-5 VIP IGDCC3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-6 LAMP5 NES	GABAergic neuron	CL:0000617	Lamp5_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L3-5 RORB LAMA4	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L5 IT	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5-6 PVALB KCNIP2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L2-5 VIP BSPRY	GABAergic neuron	CL:0000617	2->3	motor_cortex
+L6 CT	glutamatergic neuron	CL:0000679	Exc L5-6 FEZF2 OR1L8	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-2 VIP PTGER3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST KLHL1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L6 IT	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	OPC	oligodendrocyte precursor cell	CL:0002453	1->2	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L3-6 VIP UG0898H09	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1 SST DEFB108B	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-3 VIP HSPB6	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L2 LAMP5 KCNG3	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L5-6 SST DNAJC14	GABAergic neuron	CL:0000617	Sst_5	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Endo	endothelial cell	CL:0000115	Endo L2-5 NOSTRIN SRGN	endothelial cell	CL:0000115	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5 SST RPL35AP11	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L2 VIP SLC6A16	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5 PVALB LRIG3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L2-3 RORB CCDC68	glutamatergic neuron	CL:0000679	L5 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L6 IT Car3	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Exc L5 THEMIS FGF10	glutamatergic neuron	CL:0000679	L5 IT_3	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L6b	glutamatergic neuron	CL:0000679	Exc L6 FEZF2 POGK	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Astro L1-6 FGFR3 AQP1	astrocyte	CL:0000127	Astro_1	astrocyte	CL:0000127	3->4	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1 PAX6 MIR101-1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L5-6 SST PAWR	GABAergic neuron	CL:0000617	Sst_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L5-6 SST BEAN1	GABAergic neuron	CL:0000617	Sst_5	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L5 THEMIS VILL	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Exc L5-6 FEZF2 IFNG-AS1	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L5-6 VIP COL4A3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L5 ET	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1 VIP KLHDC8B	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L1-6 PVALB COL15A1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Oligo	oligodendrocyte	CL:0000128	Oligo L2-6 OPALIN FTH1P3	oligodendrocyte	CL:0000128	2->3	motor_cortex
+Exc L6 FEZF2 PDYN	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L3-5 SST GGTLC3	GABAergic neuron	CL:0000617	Sst_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L6 IT	glutamatergic neuron	CL:0000679	Exc L6 THEMIS SLN	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Sst Chodl	GABAergic neuron	CL:0000617	Inh L1-6 SST NPY	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L3-5 VIP TAC3	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-2 SST CCNJL	GABAergic neuron	CL:0000617	Sst_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L2-5 VIP SOX11	GABAergic neuron	CL:0000617	Vip_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L6 THEMIS SLN	glutamatergic neuron	CL:0000679	L6 IT_1	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L1-2 SST PRRT4	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST PIK3CD	GABAergic neuron	CL:0000617	2->3	motor_cortex
+VLMC	brain pericyte	CL:2000043	VLMC L1-5 PDGFRA COLEC12	brain pericyte	CL:2000043	2->3	motor_cortex
+Astro L1-6 FGFR3 PLCG1	astrocyte	CL:0000127	Astro_2	astrocyte	CL:0000127	3->4	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Sst	GABAergic neuron	CL:0000617	1->2	motor_cortex
+Exc L5-6 THEMIS TNFAIP6	glutamatergic neuron	CL:0000679	L6 IT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L2/3 IT	glutamatergic neuron	CL:0000679	Exc L2-3 RORB PTPN3	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Exc L6 THEMIS SNTG2	glutamatergic neuron	CL:0000679	L6 IT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L2-5 PVALB HHIPL1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Exc L5-6 FEZF2 C9orf135-AS1	glutamatergic neuron	CL:0000679	L6 CT_2	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Inh L5-6 PVALB FAM150B	GABAergic neuron	CL:0000617	Pvalb_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-3 VIP CBLN1	GABAergic neuron	CL:0000617	Vip_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L3-6 VIP ZIM2-AS1	GABAergic neuron	CL:0000617	Vip_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST DNAJC14	GABAergic neuron	CL:0000617	2->3	motor_cortex
+OPC L1-6 PDGFRA COL20A1	oligodendrocyte precursor cell	CL:0002453	OPC	oligodendrocyte precursor cell	CL:0002453	3->4	motor_cortex
+Inh L1-3 SST FAM20A	GABAergic neuron	CL:0000617	Sst_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Sncg	GABAergic neuron	CL:0000617	Inh L1 PAX6 CHRFAM7A	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L5-6 SST FBN2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L3-6 PAX6 LINC01497	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L1-5 VIP LINC01013	GABAergic neuron	CL:0000617	Vip_4	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3-5 RORB LINC01202	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L2 PAX6 FREM2	GABAergic neuron	CL:0000617	Sncg_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L6 FEZF2 FFAR4	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3-5 RORB TNNT2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 SST KLHL1	GABAergic neuron	CL:0000617	Sst_6	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L5 PVALB LRIG3	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Astro	astrocyte	CL:0000127	Astro L1-6 FGFR3 AQP1	astrocyte	CL:0000127	2->3	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3 THEMIS ENPEP	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 VIP COL4A3	GABAergic neuron	CL:0000617	Vip_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+VLMC L1-5 PDGFRA COLEC12	brain pericyte	CL:2000043	VLMC	brain pericyte	CL:2000043	3->4	motor_cortex
+Sst	GABAergic neuron	CL:0000617	Inh L6 SST TH	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1-6 LAMP5 NES	GABAergic neuron	CL:0000617	2->3	motor_cortex
+OPC	oligodendrocyte precursor cell	CL:0002453	OPC L1-6 PDGFRA COL20A1	oligodendrocyte precursor cell	CL:0002453	2->3	motor_cortex
+Inh L1-2 PVALB CDK20	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L5 RORB MED8	glutamatergic neuron	CL:0000679	L5 IT_3	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L5/6 NP	glutamatergic neuron	CL:0000679	Exc L5 FEZF2 NREP-AS1	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L1-2 SST CLIC6	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-6 VIP SLC7A6OS	GABAergic neuron	CL:0000617	Sncg_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L5-6 SST C4orf26	GABAergic neuron	CL:0000617	Sst_6	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L3-5 VIP HS3ST3A1	GABAergic neuron	CL:0000617	Vip_3	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Glutamatergic	glutamatergic neuron	CL:0000679	L5/6 NP	glutamatergic neuron	CL:0000679	1->2	motor_cortex
+Pvalb	GABAergic neuron	CL:0000617	Inh L5-6 PVALB MEPE	GABAergic neuron	CL:0000617	2->3	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Vip	GABAergic neuron	CL:0000617	1->2	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L5-6 THEMIS TNFAIP6	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L1-6 SST NPY	GABAergic neuron	CL:0000617	Sst Chodl	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1 LAMP5 BMP2	GABAergic neuron	CL:0000617	Lamp5_5	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Inh L1-2 VIP EXPH5	GABAergic neuron	CL:0000617	Vip_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Sncg	GABAergic neuron	CL:0000617	1->2	motor_cortex
+Lamp5	GABAergic neuron	CL:0000617	Inh L1 LAMP5 PVRL2	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L3 PVALB SAMD13	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Non-Neuronal	animal cell	CL:0000548	Micro-PVM	perivascular macrophage	CL:0000881	1->2	motor_cortex
+Exc L2-3 LINC00507 DSG3	glutamatergic neuron	CL:0000679	L2/3 IT	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L1-2 VIP SCML4	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Vip	GABAergic neuron	CL:0000617	Inh L3-6 VIP ZIM2-AS1	GABAergic neuron	CL:0000617	2->3	motor_cortex
+Inh L5 SST RPL35AP11	GABAergic neuron	CL:0000617	Sst_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
+L6 IT	glutamatergic neuron	CL:0000679	Exc L6 THEMIS SNTG2	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Micro L1-6 TYROBP CD74	microglial cell	CL:0000129	Microglia/PVM	perivascular macrophage	CL:0000881	3->4	motor_cortex
+GABAergic	GABAergic neuron	CL:0000617	Sst Chodl	GABAergic neuron	CL:0000617	1->2	motor_cortex
+Oligo L3-6 OPALIN ENPP6	oligodendrocyte	CL:0000128	Oligo_1	oligodendrocyte	CL:0000128	3->4	motor_cortex
+Inh L5-6 PVALB SST CRHR2	GABAergic neuron	CL:0000617	Sst_2	GABAergic neuron	CL:0000617	3->4	motor_cortex
+Exc L5-6 FEZF2 CFTR	glutamatergic neuron	CL:0000679	L6b	glutamatergic neuron	CL:0000679	3->4	motor_cortex
+L5 IT	glutamatergic neuron	CL:0000679	Exc L3 RORB OTOGL	glutamatergic neuron	CL:0000679	2->3	motor_cortex
+Inh L5-6 PVALB ZFPM2-AS1	GABAergic neuron	CL:0000617	Pvalb_1	GABAergic neuron	CL:0000617	3->4	motor_cortex
