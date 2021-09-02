@@ -57,7 +57,26 @@ LABEL,  EXPANDED_LABEL,  AS/1/ID,  LABEL,  EXPANDED_LABEL,  AS/2/ID, LAYER_CONNE
 ### PERSONAL REFERENCE NOTES:
 
 ```
-HuBMAP: (Human BioMolecular Atlas Program) organization that focuses on mapping Human Body at Cellular level using High-Res Spatial Tissue Maps.
+NIH: National Institute of Health
+
+HuBMAP: Human BioMolecular Atlas Program research that focuses on mapping a Human Body at a single cellular level, using High-Res Spatial Tissue Maps.
+		The Atlas would contain function and relationships among the cells of the body.
+Goal is to have a healthy human map, to compare against as a reference, when trying to identify disease.
+200 expert scientist in 50 institutions
+TTD and RTI: Transformative Technology Development and Rapid Technology Implementation
+TMC: Tissue Mapping Center
+HIVE: HuBMAP Integration, Visualization and Engagement (Mapping center responsible for building a vocabulary/reference to describe all of the data generated in HuBMAP)
+Tissue collection -> Assays/analysis -> Data compilation -> Map generation -> Data Storage -> Dissemination/access of data
+
+Seurat: Software package in R to analyze single-cell datasets: cell-clusters, which genes/sequences each cell contains, etc.
+Used for cell annotation in HuBMAP (neuron, skin-cell, subset of T-Cell, subset of macrophages, etc.)
+
+
+BIOMIC: BioMolecular Multimodal Imaging Center at Vanderbilt University is building a platform for imaging and molecular analysis, to create 3-D molecular atlases of human tissues
+through high-res spatial maps. They use mass-spectrometry, microscopy, etc. for analyses of kidney tissues.
+Autofluorescence Microscopy -> MALDI imaging mass-spectrometry on a specific section of tissue -> 
+Autofluorescence Microscopy is for image registration and co-registering multiple sections of same tissue sample
+Stained Microscopy is to study histological (microscopic) morphology (shape and texture)
 
 
 ASCT+B:,  Anatomical Structure, Cell Types, and Biomarkers
