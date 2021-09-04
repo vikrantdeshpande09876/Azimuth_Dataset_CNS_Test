@@ -50,6 +50,11 @@ LABEL,  EXPANDED_LABEL,  AS/1/ID,  LABEL,  EXPANDED_LABEL,  AS/2/ID, LAYER_CONNE
 </ol>
 
 
+![Initial_Submission_Hierarchical_Graph](/Testing_Data_structures_for_cytoscape/Initial_Submission_Hierarchical_Graph.png?raw=True)
+
+
+### A more accurate image of the visualization is available at:
+[Initial_Submission_Hierarchical_Graph.pdf](/Testing_Data_structures_for_cytoscape/Initial_Submission_Hierarchical_Graph.pdf)
 
 
 
