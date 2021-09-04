@@ -13,7 +13,7 @@ Note: I've currently skipped out the fetal_development.csv from this problem sta
 <ol>
 For preprocessing the excels, we will:
 <li>Remove the first 8 lines</li>
-<li>Drop the \*COUNT\* columns</li>
+<li>Drop the *COUNT* columns</li>
 <li>Add a new column containing File-name for backtracking purposes</li>
 <li>Register a new Pyspark-SQL view</li>
 </ol>
